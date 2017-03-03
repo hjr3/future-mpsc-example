@@ -1,6 +1,6 @@
 # Future Based MPSC Example
 
-A short example program that uses a future based multi-produer, single-consumer queue on conjunction with tokio.
+A short example program that uses a future based multi-produer, single-consumer queue in conjunction with tokio.
 
 ## License
 
