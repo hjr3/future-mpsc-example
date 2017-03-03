@@ -2,6 +2,8 @@
 
 A short example program that uses a future based multi-produer, single-consumer queue in conjunction with tokio.
 
+This is part of a blog [post](http://hermanradtke.com/2017/03/03/future-mpsc-queue-with-tokio.html).
+
 ## License
 
 Licensed under either of
